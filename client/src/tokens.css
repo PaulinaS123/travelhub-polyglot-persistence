@@ -1,0 +1,24 @@
+/* Exact values read from Figma: TravelHub · Semantic tokens (Nov 17, 2026). */
+:root {
+ --action-primary:#4441E6;
+ --action-pressed:#3431B8;
+ --action-subtle:#EEEDFC;
+ --action-disabled:#DCE0EA;
+ --text-primary:#20243A;
+ --text-secondary:#626B80;
+ --text-inverse:#FFFFFF;
+ --surface-canvas:#F5F6FA;
+ --surface-base:#FFFFFF;
+ --border-control:#858DA1;
+ --border-subtle:#DCE0EA;
+ --status-success:#16745B;
+ --status-success-subtle:#E8F5EF;
+ --status-error:#B93842;
+ --status-error-subtle:#FFF0F1;
+ --status-warning:#B65D38;
+ --status-warning-subtle:#FFF5E8;
+ --space-4:4px;--space-8:8px;--space-12:12px;--space-16:16px;--space-24:24px;--space-32:32px;--space-48:48px;
+ --radius-small:8px;--radius-control:12px;--radius-card:16px;--radius-pill:999px;
+ --touch-minimum:44px;--control-height:48px;--icon-size:24px;
+ --font-family:'Inter',sans-serif;
+}
